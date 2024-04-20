@@ -1,1 +1,82 @@
 /* ini file css */
+
+main {
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+.main-title {
+    text-align: center;
+}
+
+.main-section {
+    padding: 16px;
+    background-color: cornsilk;
+    border-radius: 8px;
+}
+
+.section-celcius {
+    padding-top: 16px;
+}
+
+.section-fahrenheit {
+    padding-top: 16px;
+}
+
+.section-result {
+    padding-top: 16px;
+}
+
+textarea {
+    width: 80%;
+    height: 32px;
+    resize: none;
+    width: 90%;
+    height: 32px;
+    resize: none;
+    border: 2px solid lavender;
+    border-radius: 8px;
+    font-size: 24px;
+    font-family: sans-serif;
+    align-content: center;
+}
+
+.div-button {
+    padding-top: 16px;
+}
+
+.formula-s {
+    font-size: 24px;
+    font-style: italic;
+}
+
+.formula-s > sub {
+    font-style: normal;
+}
+
+button {
+    border: none;
+    font-size: 14px;
+    padding: 10px;
+    border-radius: 8px;
+    font-family: arial;
+}
+
+#button-convert {
+    background-color:cadetblue;
+    color: white;
+    margin-right: 8px;
+}
+
+#button-reset {
+    background-color:skyblue;
+    color: white;
+    margin-right: 8px;
+}
+
+#button-reverse {
+    background-color: lightcoral;
+    color: white;
+}
