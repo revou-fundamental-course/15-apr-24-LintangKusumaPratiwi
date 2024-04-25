@@ -80,3 +80,7 @@ button {
     background-color: lightcoral;
     color: white;
 }
+
+#f-to-c {
+    display: none;
+}
